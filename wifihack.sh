@@ -16,7 +16,7 @@ echo """
 ██║  ██║    ██║  ██║    ╚██████╗    ██║  ██╗    
 ╚═╝  ╚═╝    ╚═╝  ╚═╝     ╚═════╝    ╚═╝  ╚═╝    
                                                 
-coded by A Z O | i n s t a : r7ghz | snapchat : uur_2v | github : az0122
+coded by A Z O | i n s t a : r7jhz1 | snapchat : uur_2v | github : az0122
 """
 echo '''
 {1} > wifi hacking
@@ -178,7 +178,7 @@ HAVE FUN ^_^
 
 ======================================
 
-coded by A Z O | i n s t a : r7ghz | snapchat : uur_2v | github : az0122
+coded by A Z O | i n s t a : r7jhz1 | snapchat : uur_2v | github : az0122
 '''
 exit
 else
@@ -228,7 +228,7 @@ HAVE FUN ^_^
 
 ======================================
 
-coded by A Z O | i n s t a : r7ghz | snapchat : uur_2v | github : az0122
+coded by A Z O | i n s t a : r7jhz1 | snapchat : uur_2v | github : az0122
 '''
 exit
 fi
